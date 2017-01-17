@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<packages>
+    <package pkg="beginner" name="Codin Course - start">
+        <suite class="AboutKoans">
+        <koan name="findAboutKoansFile" displayIncompleteKoanException="false" />
+        <koan name="definitionOfKoanCompletion" displayIncompleteKoanException="false" />
+        </suite>
+        <suite class="AboutAssertions"/>
+        <suite class="AboutEquality"/>
+        <suite class="AboutInheritance"/>
+        <suite class="AboutConstructors"/>
+        <suite class="AboutMethodPreference"/>
+        <suite class="AboutStrings"/>
+        <suite class="AboutArithmeticOperators"/>
+        <suite class="AboutConditionals"/>
+        <suite class="AboutLoops" />
+        <suite class="AboutPrimitives" />
+        <suite class="AboutEnums"/>
+        <suite class="AboutExceptions"/>
+        <suite class="AboutArrays"/>
+        <suite class="AboutCollections"/>
+    </package>
+    <package pkg="extra" name="Codin Course - extra">
+        <suite class="AboutAutoboxing"/>
+        <suite class="AboutCollections"/>
+        <suite class="AboutComparison"/>
+        <suite class="AboutDates"/>
+        <suite class="AboutEquality"/>
+        <suite class="AboutFileIO"/>
+        <suite class="AboutInnerClasses"/>
+        <suite class="AboutLocale"/>
+        <suite class="AboutRegularExpressions"/>
+        <suite class="AboutSerialization"/>
+    </package>
+</packages>
