@@ -29,6 +29,7 @@
         <suite class="AboutFileIO"/>
         <suite class="AboutInnerClasses"/>
         <suite class="AboutLocale"/>
+        <suite class="AboutPrimitives" />
         <suite class="AboutRegularExpressions"/>
         <suite class="AboutSerialization"/>
     </package>
