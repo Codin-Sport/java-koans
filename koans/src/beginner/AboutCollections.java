@@ -1,4 +1,4 @@
-package intermediate;
+package beginner;
 
 import com.sandwich.koan.Koan;
 

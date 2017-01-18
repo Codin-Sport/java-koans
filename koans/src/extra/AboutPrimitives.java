@@ -1,4 +1,4 @@
-package beginner;
+package extra;
 
 import com.sandwich.koan.Koan;
 
@@ -18,7 +18,7 @@ public class AboutPrimitives {
         assertEquals(getType(number), __);
 
         // Primitives can be automatically changed into their object type via a process called auto-boxing
-        // We will explore this in more detail in intermediate.AboutAutoboxing
+        // We will explore this in more detail in extra.AboutAutoboxing
     }
 
     @Koan
